@@ -2,7 +2,7 @@
 
 # Team - Alpha Squad
 
-                  - Saidu Babu Dosapati.
+                  - Saidu
                   - Vasireddy Alaap.
                   - Cherukuri Venkatesh.
                   - Nooka Nithin.
